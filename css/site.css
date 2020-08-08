@@ -1,3 +1,19 @@
 .human-navbar-right {
-    margin-left: 69%;
+  margin-left: 61%;
+}
+
+.human-footer-box {
+  background-color: #f8f9fa;
+  padding: 10px;
+}
+
+/* Index.html CSS */
+.human-main-box {
+  margin: 13.5%;
+}
+
+
+/* Features.html CSS*/
+.human-features-box {
+    
 }
